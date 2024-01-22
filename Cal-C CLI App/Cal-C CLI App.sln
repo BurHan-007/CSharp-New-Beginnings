@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cal-C CLI App", "Cal-C CLI App\Cal-C CLI App.csproj", "{DF9FFF6F-11BD-44FD-AEC7-0492DED3737E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cal-C CLI App", "Cal-C CLI App\Cal-C CLI App.csproj", "{CF2DF1E7-5383-4A22-860B-1642B8C37506}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF9FFF6F-11BD-44FD-AEC7-0492DED3737E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF9FFF6F-11BD-44FD-AEC7-0492DED3737E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF9FFF6F-11BD-44FD-AEC7-0492DED3737E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF9FFF6F-11BD-44FD-AEC7-0492DED3737E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2DF1E7-5383-4A22-860B-1642B8C37506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2DF1E7-5383-4A22-860B-1642B8C37506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2DF1E7-5383-4A22-860B-1642B8C37506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2DF1E7-5383-4A22-860B-1642B8C37506}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1DB13D7B-AE34-4A87-A895-138784A16BFD}
+		SolutionGuid = {FEA99FD7-71AB-4F64-B82F-8329A3FA2572}
 	EndGlobalSection
 EndGlobal
